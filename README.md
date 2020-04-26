@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 05: Primeiro projeto Node.js
+  Desafio 5: Primeiro projeto Node.js
 </h3>
 
 <p align="center">
